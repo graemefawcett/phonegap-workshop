@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="10a1d1b9-1d69-40a7-8706-f689759b8ad6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/EmployeeView.js" afterPath="$PROJECT_DIR$/js/EmployeeView.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/HomeView.js" afterPath="$PROJECT_DIR$/js/HomeView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="workshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,10 +84,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmployeeView.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="EmployeeView.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/EmployeeView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="21" selection-start="1520" selection-end="1520" vertical-scroll-proportion="0.9579832">
+            <state line="50" column="22" selection-start="1527" selection-end="1527" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -101,10 +102,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeView.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="HomeView.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/HomeView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="23" selection-start="535" selection-end="535" vertical-scroll-proportion="0.0">
+            <state line="25" column="0" selection-start="839" selection-end="839" vertical-scroll-proportion="0.5252101">
               <folding />
             </state>
           </provider>
@@ -147,11 +148,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/namedconfig.xml" />
-        <option value="$PROJECT_DIR$/js/HomeView.js" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/EmployeeView.js" />
+        <option value="$PROJECT_DIR$/js/HomeView.js" />
       </list>
     </option>
   </component>
@@ -485,13 +486,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/HomeView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="23" selection-start="535" selection-end="535" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="203" column="30" selection-start="4142" selection-end="4142" vertical-scroll-proportion="0.0">
@@ -508,7 +502,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/EmployeeView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="21" selection-start="1520" selection-end="1520" vertical-scroll-proportion="0.9579832">
+        <state line="50" column="22" selection-start="1527" selection-end="1527" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/HomeView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="839" selection-end="839" vertical-scroll-proportion="0.5252101">
           <folding />
         </state>
       </provider>
