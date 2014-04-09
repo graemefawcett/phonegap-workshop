@@ -3,18 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="10a1d1b9-1d69-40a7-8706-f689759b8ad6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/EmployeeView.js" afterPath="$PROJECT_DIR$/js/EmployeeView.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/HomeView.js" afterPath="$PROJECT_DIR$/js/HomeView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/namedconfig.xml" afterPath="$PROJECT_DIR$/namedconfig.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="workshop.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="10a1d1b9-1d69-40a7-8706-f689759b8ad6" time="1396987005725" ignored="false" />
-    <file path="/index.html" changelist="10a1d1b9-1d69-40a7-8706-f689759b8ad6" time="1397004360246" ignored="false" />
+    <file path="/index.html" changelist="10a1d1b9-1d69-40a7-8706-f689759b8ad6" time="1397006123398" ignored="false" />
     <file path="/main.js" changelist="10a1d1b9-1d69-40a7-8706-f689759b8ad6" time="1397002752868" ignored="false" />
-    <file path="/namedconfig.xml" changelist="10a1d1b9-1d69-40a7-8706-f689759b8ad6" time="1396987539220" ignored="false" />
+    <file path="/namedconfig.xml" changelist="10a1d1b9-1d69-40a7-8706-f689759b8ad6" time="1397005653666" ignored="false" />
     <file path="/HomeView.js" changelist="10a1d1b9-1d69-40a7-8706-f689759b8ad6" time="1396991357143" ignored="false" />
     <file path="/styles.css" changelist="10a1d1b9-1d69-40a7-8706-f689759b8ad6" time="1396991430206" ignored="false" />
-    <file path="/EmployeeView.js" changelist="10a1d1b9-1d69-40a7-8706-f689759b8ad6" time="1397004546718" ignored="false" />
+    <file path="/EmployeeView.js" changelist="10a1d1b9-1d69-40a7-8706-f689759b8ad6" time="1397006245253" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,16 +79,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="73" selection-start="1441" selection-end="1441" vertical-scroll-proportion="-16.25">
+            <state line="27" column="67" selection-start="1518" selection-end="1518" vertical-scroll-proportion="-16.875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmployeeView.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="EmployeeView.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/EmployeeView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="22" selection-start="1527" selection-end="1527" vertical-scroll-proportion="0.0">
+            <state line="58" column="6" selection-start="1789" selection-end="1789" vertical-scroll-proportion="0.7478992">
               <folding />
             </state>
           </provider>
@@ -102,10 +103,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeView.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="HomeView.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/HomeView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="839" selection-end="839" vertical-scroll-proportion="0.5252101">
+            <state line="25" column="0" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -123,7 +124,7 @@
       <file leaf-file-name="namedconfig.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/namedconfig.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="22" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
+            <state line="31" column="77" selection-start="1306" selection-end="1306" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -147,18 +148,18 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/namedconfig.xml" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/js/HomeView.js" />
+        <option value="$PROJECT_DIR$/namedconfig.xml" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/EmployeeView.js" />
-        <option value="$PROJECT_DIR$/js/HomeView.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="591" />
-    <option name="y" value="22" />
+    <option name="x" value="449" />
+    <option name="y" value="23" />
     <option name="width" value="900" />
     <option name="height" value="860" />
   </component>
@@ -376,7 +377,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="591" y="22" width="900" height="860" extended-state="0" />
+    <frame x="449" y="23" width="900" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -472,13 +473,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/namedconfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="22" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="56" column="25" selection-start="1724" selection-end="1724" vertical-scroll-proportion="0.0">
@@ -493,23 +487,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/HomeView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/namedconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="77" selection-start="1306" selection-end="1306" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="73" selection-start="1441" selection-end="1441" vertical-scroll-proportion="-16.25">
+        <state line="27" column="67" selection-start="1518" selection-end="1518" vertical-scroll-proportion="-16.875">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/EmployeeView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="22" selection-start="1527" selection-end="1527" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/HomeView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="839" selection-end="839" vertical-scroll-proportion="0.5252101">
+        <state line="58" column="6" selection-start="1789" selection-end="1789" vertical-scroll-proportion="0.7478992">
           <folding />
         </state>
       </provider>

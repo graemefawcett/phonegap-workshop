@@ -42,10 +42,27 @@ var EmployeeView = function(employee) {
             options);
     };
 
+    this.scanSomething = function(event) {
+        event.preventDefault();
+
+        cordova.plugins.barcodeScanner.scan(
+            function(result) {
+                app.showAlert("Scanned a barcode\n" +
+                "Result: " + result.text + "\n" +
+                "Format: " + result.format + "\n" +
+                "Cancelled: " + result.cancelled);
+            },
+            function(error) {
+                app.showAlery("Scanning failed: " + error);
+            }
+        )
+    };
+
     this.initialize = function() {
         this.el = $('<div/>');
         this.el.on('click', '.add-location-btn', this.addLocation);
         this.el.on('click', '.change-pic-btn', this.changePicture);
+        this.el.on('click', '.scan-btn', this.scanSomething);
     };
 
     this.initialize();
